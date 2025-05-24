@@ -12,7 +12,3 @@ Se implementaron dos endpoints para cubrir los requerimientos adicionales del re
 agrupadas por departamento y puesto.
 - `GET /metrics/departments-above-average`: Departamentos que contrataron más empleados 
 que el promedio global de 2021.
-
-> ⚠️ Nota: Por motivos técnicos relacionados con mi local, no se pudo ejecutar 
-ni validar estos endpoints directamente. Sin embargo, el código está completo
-y listo para pruebas en cualquier máquina con Python instalado.
